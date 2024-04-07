@@ -20,5 +20,5 @@ more detail [here](https://github.com/Mindinventory/animated_notch_bottom_bar)
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/juneview-songdo/animated_notch_bottom_bar_view/assets/21379657/5426e2b6-cc28-43a3-8005-27e7346d0788)
 

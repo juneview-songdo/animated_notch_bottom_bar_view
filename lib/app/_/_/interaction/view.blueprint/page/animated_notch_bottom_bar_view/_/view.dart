@@ -91,17 +91,17 @@ class NewViewState extends State<NewView> with StateMother {
               ),
               itemLabel: 'Page 4',
             ),
-            // BottomBarItem(
-            //   inActiveItem: Icon(
-            //     Icons.person,
-            //     color: Colors.blueGrey,
-            //   ),
-            //   activeItem: Icon(
-            //     Icons.person,
-            //     color: Colors.yellow,
-            //   ),
-            //   itemLabel: 'Page 5',
-            // ),
+            BottomBarItem(
+              inActiveItem: Icon(
+                Icons.person,
+                color: Colors.blueGrey,
+              ),
+              activeItem: Icon(
+                Icons.person,
+                color: Colors.yellow,
+              ),
+              itemLabel: 'Page 5',
+            ),
           ],
           onTap: (index) {
             /// perform action on tab change and to update pages you can update pages without pages
